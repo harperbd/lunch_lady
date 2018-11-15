@@ -1,5 +1,4 @@
 class Cart
-  # total as attribute???
 
   def initialize
     @cart_items = []
